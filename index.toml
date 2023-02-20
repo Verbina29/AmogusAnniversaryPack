@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "c344e95ddff2bba721f3aff2dcbbd1c913ed6530d51ab38f64e253b9a8bf52e2"
+
+[[files]]
+file = "config/leaves_us_in_peace.json"
+hash = "2bc169775c6d44142bf41fbbcfb11968c16021169391c6c66c3cfcdf73d0d7f6"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "8e8b3431538474dd8383ff3c059f5049111067c1b212b5b1e2b2202381553b11"
 metafile = true
