@@ -1,12 +1,12 @@
 name = "Amogus Incident 2 Year Anniversary"
 author = "Verbina29"
-version = "1.2.1"
+version = "1.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3316ff3d2f06f978699da0fc88a415d631a6b10198acc3c09d78ec6a0fc32b4b"
+hash = "b837f73412f0eda4192168bcb06a4d76df3221e2a8f4142431b6926f1785e76c"
 
 [versions]
 minecraft = "1.19.2"
