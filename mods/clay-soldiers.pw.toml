@@ -1,0 +1,13 @@
+name = "Clay Soldiers"
+filename = "clay-0.4.2-fabric-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7b2B0QcO/versions/vtsSNbXK/clay-0.4.2-fabric-1.19.2.jar"
+hash-format = "sha1"
+hash = "982299023b34022dbdf7cd83a97e834ba58684a0"
+
+[update]
+[update.modrinth]
+mod-id = "7b2B0QcO"
+version = "vtsSNbXK"

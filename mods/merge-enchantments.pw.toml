@@ -1,0 +1,13 @@
+name = "Merge Enchantments [Fabric/Quilt & Forge]"
+filename = "merenc-fabric-1.19.x-v1.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a95033d057e12a85f1fe990cc50297a86de93f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4275798
+project-id = 627101

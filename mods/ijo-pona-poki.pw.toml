@@ -1,0 +1,13 @@
+name = "ijo pona poki (AE2Things rewrite)"
+filename = "ijo-pona-poki-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DrpENU67/versions/LhNg6OTk/ijo-pona-poki-1.0.4.jar"
+hash-format = "sha1"
+hash = "ee264df0e1de7df15913e3be8e1024d76f7bcb87"
+
+[update]
+[update.modrinth]
+mod-id = "DrpENU67"
+version = "LhNg6OTk"

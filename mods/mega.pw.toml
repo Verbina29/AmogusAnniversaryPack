@@ -1,0 +1,13 @@
+name = "MEGA Cells"
+filename = "megacells-fabric-2.0.0-beta.6-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7QZJE3uU/versions/rTA3u3B2/megacells-fabric-2.0.0-beta.6-1.19.2.jar"
+hash-format = "sha1"
+hash = "d48f7c897132c39cf1386b0b56e34ebb83725184"
+
+[update]
+[update.modrinth]
+mod-id = "7QZJE3uU"
+version = "rTA3u3B2"

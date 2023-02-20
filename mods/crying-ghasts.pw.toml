@@ -1,0 +1,13 @@
+name = "Crying Ghasts"
+filename = "cryingghasts-1.19.2-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SFBuyD9e/versions/tbXgxlh4/cryingghasts-1.19.2-3.1.jar"
+hash-format = "sha1"
+hash = "4e86ec1c69fa206ca70ef68cb2773c146c63cc33"
+
+[update]
+[update.modrinth]
+mod-id = "SFBuyD9e"
+version = "tbXgxlh4"

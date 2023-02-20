@@ -1,0 +1,13 @@
+name = "Precise Block Placing"
+filename = "preciseblockplacing-2.0.1+1.19-quilt.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7dcfa9a872db4a919597efb874aff41dbc7e2c72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3827326
+project-id = 407981
