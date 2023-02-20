@@ -666,9 +666,8 @@ hash = "b1d2c566b87b0467ee4c53a64f2f659536d7a1e74e6546a788b1425ffd4284ed"
 metafile = true
 
 [[files]]
-file = "mods/refinedstorage2.pw.toml"
-hash = "4bbddcf25736a4239dec2d111fab4284dbf774ffed7731fc8c5f1f4eeda27a34"
-metafile = true
+file = "mods/refinedstorage2-platform-fabric-2.0.0-milestone.2.6.jar"
+hash = "a61d88ad37ab04d819a9e74684e1e8407a0ae4aeffa9921e03e573e81a3622d1"
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
