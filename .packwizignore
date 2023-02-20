@@ -1,0 +1,7 @@
+*.mrpack
+*.zip
+packwiz.exe
+.git
+.github
+.gitattributes
+.gitignore
