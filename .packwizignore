@@ -5,3 +5,5 @@ packwiz.exe
 .github
 .gitattributes
 .gitignore
+*.css
+*.html
