@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+html {
+  scrollbar-color: #B60000 #242426;  
+}
+body {
+	background-color: #1C1C1E;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
