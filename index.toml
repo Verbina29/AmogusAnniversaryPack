@@ -14,6 +14,11 @@ hash = "8e8b3431538474dd8383ff3c059f5049111067c1b212b5b1e2b2202381553b11"
 metafile = true
 
 [[files]]
+file = "mods/addadd.pw.toml"
+hash = "21d4c1c69be7ea0f9200ab3129fce65f560381618e5565fcaaf52ec02a0b3a48"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "fe0c6414ed16ae36a3dfe45408659d5ac1855ff56095a1e85f1646ac5134f349"
 metafile = true
