@@ -294,6 +294,11 @@ hash = "6f861bef40b07305860c5fb8d7c53335d8c54e70dd3dd923f8644289525d51a9"
 metafile = true
 
 [[files]]
+file = "mods/fabriccrossdimtpfix.pw.toml"
+hash = "4c92c7f3cc143e783ec0e043e2b21e35df7d8703214760f2ba1ca572dd85d9e2"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
 metafile = true
