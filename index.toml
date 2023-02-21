@@ -364,6 +364,11 @@ hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
 metafile = true
 
 [[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "1f202c03d7e9bb50f0c548336fe47c6f37d8f4d39907c243cab782de87dccc25"
+metafile = true
+
+[[files]]
 file = "mods/gravity-api.pw.toml"
 hash = "26fa2e0e8ffb82e0f9240c31102e294a8478de9caf0546586178f59f8a721491"
 metafile = true
