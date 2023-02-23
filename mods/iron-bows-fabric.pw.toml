@@ -1,0 +1,13 @@
+name = "Iron Bows (FABRIC)"
+filename = "ironbows-1.4-FABRIC-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbd83141c2c1480f63441e094f93cc88bf9a86f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4005509
+project-id = 681496

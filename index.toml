@@ -74,6 +74,11 @@ hash = "8819e68ae91bcffd6cdee453443a8b939892a229f78cbd114e3e594faaa491ff"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
 metafile = true
@@ -279,6 +284,11 @@ hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-table-descriptions.pw.toml"
+hash = "b7a5b011e2bc90a4a6942e5bd0ca20b02ea3ad4f02938967563bef03ff34140a"
+metafile = true
+
+[[files]]
 file = "mods/end-portal-recipe.pw.toml"
 hash = "0f7e12fef0583e8b47eb75d72b549a7362f8a6b8acd321981ca059ee1a90e2e5"
 metafile = true
@@ -331,6 +341,16 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "552559fc09df74f383b3090a7b205a8c60704950e7f65f218c2e795b4fb176fe"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
+metafile = true
+
+[[files]]
+file = "mods/fortune-gives-experience-fabric.pw.toml"
+hash = "a491a8b5ee2673e7b89111e113184585a8c62527a41ca033d64968919db85e86"
 metafile = true
 
 [[files]]
@@ -399,6 +419,11 @@ hash = "29bf4b9e747ca85980f003a2d301e4d02f83886ecfeffc283d2742d4e774acc9"
 metafile = true
 
 [[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "6fd7515689f5d615195b919471c55704adb1937ca5f78950b238b9b45ecb1b07"
+metafile = true
+
+[[files]]
 file = "mods/ijo-pona-poki.pw.toml"
 hash = "baf0c25b0eccca22191c2bec40d8733e6e23933cf26f740fc876c7c80615205e"
 metafile = true
@@ -431,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "2355898e55539353e3fe43057c1c2880e02ceb6b64c8f5d1e0bc2a660635c323"
+metafile = true
+
+[[files]]
+file = "mods/iron-bows-fabric.pw.toml"
+hash = "80689e2b7699ac3f2d6ed88c6eb52aa9a37b3c30f8192997db5a0d81a9d2e40b"
 metafile = true
 
 [[files]]
@@ -684,6 +714,11 @@ hash = "0cffae3ac81c1ded0a44c0f60677e96530ea75e4251d0b737e8684e5c95df835"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
@@ -823,8 +858,18 @@ hash = "f7fa1682ebb46d34efb8a4a5fca1dd52781016598a2d3b6aa9b4fca8ecc5daf2"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "39321dc0229f97f8d95a27aae46a440d7e86c31c9b6e7d26c94c766d58297db0"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "1fd2c6bb48d1c99ecd5f3d7bcf1e9c8700481e85388e8709698e15f135026807"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Fortune Gives Experience (Fabric)"
+filename = "fortune-gives-experience-1.19.2-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b61584776c4be5e162d7d88cc55c900eaaa264a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4399455
+project-id = 409766
