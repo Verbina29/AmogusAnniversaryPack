@@ -573,6 +573,11 @@ hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
 metafile = true
 
 [[files]]
+file = "mods/miskatonic-mysteries.pw.toml"
+hash = "0ca670200aff3665fbbc9c9e43802925a04bbd83295287a52af151b8a1a1a2af"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
