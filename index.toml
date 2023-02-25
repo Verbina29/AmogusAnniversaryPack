@@ -778,6 +778,11 @@ hash = "a243327d90ad1e54920df9ff58625080348a771d8ac98573544667dee6783bbc"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "1cfbfd92ef7d5688cd9710c9f6030987182a023f848bc01efa654037642fc982"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "9564fdec81b576b808ff2b86890977dd2ebb242013580c42d93ca73a0eb0c1aa"
 metafile = true
