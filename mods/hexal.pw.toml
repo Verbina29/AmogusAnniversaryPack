@@ -1,13 +1,13 @@
 name = "Hexal"
-filename = "hexal-fabric-1.19.2-0.2.9.jar"
+filename = "hexal-fabric-1.19.2-0.2.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aBVJ6Q36/versions/EEAQ9HxV/hexal-fabric-1.19.2-0.2.9.jar"
+url = "https://cdn.modrinth.com/data/aBVJ6Q36/versions/RxK71QKF/hexal-fabric-1.19.2-0.2.10.jar"
 hash-format = "sha1"
-hash = "d3f990d239dafa1a32a63781fa9718a059600d62"
+hash = "4078581cedfe9cf3a0f156356d78d9fc90d80f12"
 
 [update]
 [update.modrinth]
 mod-id = "aBVJ6Q36"
-version = "EEAQ9HxV"
+version = "RxK71QKF"
