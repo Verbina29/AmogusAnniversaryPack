@@ -1,13 +1,13 @@
 name = "Hexbound"
-filename = "hexbound-0.1.1+1.19.2.jar"
+filename = "hexbound-0.1.2+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PHgo4bVw/versions/s7uLHVq9/hexbound-0.1.1%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/PHgo4bVw/versions/nCDVfky6/hexbound-0.1.2%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "3ed0fc9a396ebfe206c94810491c46282218313c"
+hash = "d81f3b099a979367e4380dc3a09025df197d635d"
 
 [update]
 [update.modrinth]
 mod-id = "PHgo4bVw"
-version = "s7uLHVq9"
+version = "nCDVfky6"

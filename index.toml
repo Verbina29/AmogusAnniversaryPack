@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexbound.pw.toml"
-hash = "7fa668a1f87b99f463286102bcf45a45e15b835181be532bc2507b7b7a1c2762"
+hash = "9ee238276f3db09ca125bcbdbf1fe7867164af64a93b0e4b021a9c3b43578441"
 metafile = true
 
 [[files]]
