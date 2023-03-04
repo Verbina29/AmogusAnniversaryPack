@@ -5,6 +5,10 @@ file = "config/bclib/client.json"
 hash = "c344e95ddff2bba721f3aff2dcbbd1c913ed6530d51ab38f64e253b9a8bf52e2"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "ebabe04ca6e73698666ad6a987d41615baa423edd5e4c97da1c2c2cec99f34ce"
+
+[[files]]
 file = "config/leaves_us_in_peace.json"
 hash = "2bc169775c6d44142bf41fbbcfb11968c16021169391c6c66c3cfcdf73d0d7f6"
 
