@@ -32,6 +32,11 @@ hash = "fe0c6414ed16ae36a3dfe45408659d5ac1855ff56095a1e85f1646ac5134f349"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
+metafile = true
+
+[[files]]
 file = "mods/amethyst-gravity.pw.toml"
 hash = "9a916afffaacf4df324917620dc29d8fbb4488ad143029113adade8386f7be87"
 metafile = true
